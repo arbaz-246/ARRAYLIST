@@ -1,5 +1,3 @@
-package ARRAYLIST;
-
 import java.util.*;
 
 public class Maximum {
